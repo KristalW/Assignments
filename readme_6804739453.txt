@@ -1,0 +1,3 @@
+Name: Jianing Wang
+email: jianingw@usc.edu
+DB software: mySQL and the link  http://www.sqlfiddle.com/ to simulate
